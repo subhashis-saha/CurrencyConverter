@@ -6,7 +6,7 @@ And also use an API
  API link
 https://api.frankfurter.app/latest?amount=1&from=USD&to=INR
 
-	Country List 
+Country List 
 AUD	"Australian Dollar"
 BGN	"Bulgarian Lev"
 BRL	"Brazilian Real"
